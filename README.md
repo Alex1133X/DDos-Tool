@@ -7,4 +7,4 @@ Step 6 Put threats max 10000
 Step 7 Press Attack and enjoy
  
 Work on windows 7 - windows 10 - windows 11
-
+methods of udp dns tcp and for layer 7 you can have acces to Vip
